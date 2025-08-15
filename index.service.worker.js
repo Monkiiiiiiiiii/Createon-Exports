@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1755091385|7155142460';
+const CACHE_VERSION = '1755292469|29212736981';
 /** @type {string} */
 const CACHE_PREFIX = 'Createon-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
